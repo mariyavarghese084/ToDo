@@ -1,0 +1,15 @@
+.todo{
+    background-color: rgb(128, 87, 167);
+    height: 300vh;
+}
+.box{
+    width: 505px;
+    height: 500px;
+    background-color: rgb(42, 165, 155);
+    border-radius:10px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    overflow: scroll;
+}
+i,.inputAdd{
+    cursor: pointer;
+}
