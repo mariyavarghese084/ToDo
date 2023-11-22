@@ -13,3 +13,12 @@
 i,.inputAdd{
     cursor: pointer;
 }
+.compl
+{
+text-decoration: line-through;
+color: red;
+}
+input[type=checkbox]:checked + p.strikethrough {
+    text-decoration: line-through;
+    color: red;
+}
